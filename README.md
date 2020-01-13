@@ -1,8 +1,10 @@
 //# SummOddRange
 //Simple algorithm that sums all the odd numbers within given range.
 
+
 public class SumOddRange {
-    public static boolean isOdd (int number){
+   
+   public static boolean isOdd (int number){
         if (number <0) {
             return false;
         }
